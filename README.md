@@ -23,7 +23,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 MIT License
 
-Copyright (c) 2020 Galih Pratama
+Copyright (c) 2024 Ghaly Abrarian
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -44,7 +44,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 <hr>
-
-Source code ini HANYA DAPAT DIGUNAKAN untuk member kelas BWASTARTUP dan tidak diizinkan untuk disebarkan kepada pihak selain member kelas BWASTARTUP.
-
-Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain BelajarKoding atau BuildWith Angga, dan bukan dari bagian member BWASTARTUP, anda tidak diperkenankan untuk menggunakan source code ini.
